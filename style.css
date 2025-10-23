@@ -1,0 +1,43 @@
+body {
+    background-color: #dcd6ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.card {
+    background-color: white;
+    width: 250px;
+    margin: 50px auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px gray;
+}
+
+.product-image {
+    width: 200px;
+    border-radius: 8px;
+}
+
+h2 {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 13px;
+    color: #333;
+    margin: 8px 0;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkviolet;
+}
